@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.1.0",
-  "latest_version": "0.1.0",
+  "min_supported_version": "0.1.1",
+  "latest_version": "0.1.1",
   "download_url": "https://github.com/J0shS/ECTHub-Analysis-Distrib/releases/latest/download/Setup_ECTHub_Analysis.exe",
-  "message": ""
+  "message": "Fix: Preserve nested empty folders end-to-end"
 }
