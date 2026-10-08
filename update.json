@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.2.1",
-  "latest_version": "0.2.1",
+  "min_supported_version": "0.2.2",
+  "latest_version": "0.2.2",
   "download_url": "https://github.com/J0shS/ECTHub-Analysis-Distrib/releases/latest/download/Setup_ECTHub_Analysis.exe",
-  "message": "Bug fix - Sync now transfers .MSG files"
+  "message": "Security Updates and Login Upgrades"
 }
