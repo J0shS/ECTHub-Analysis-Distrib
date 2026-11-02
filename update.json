@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.2.2",
-  "latest_version": "0.2.2",
+  "min_supported_version": "0.2.3",
+  "latest_version": "0.2.3",
   "download_url": "https://github.com/J0shS/ECTHub-Analysis-Distrib/releases/latest/download/Setup_ECTHub_Analysis.exe",
-  "message": "Security Updates and Login Upgrades"
+  "message": "Download Project is now disabled for jobs that have no components yet, with a note explaining why."
 }
